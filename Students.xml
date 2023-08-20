@@ -1,0 +1,46 @@
+<Students>
+	<Student>
+		<name> Yogesh Ahuja </name>
+		<rollno>20</rollno>
+		<class> TYBtech </class>
+		<div> A </div>
+		<courses>
+			<course> ADS </course>
+			<course> ML </course>
+			<course> EH </course>
+		</courses>
+	</Student>
+	<Student>
+		<name> Sarthak Baldota </name>
+		<rollno>19</rollno>
+		<class> TYBtech </class>
+		<div> A </div>
+		<courses>
+			<course> ADS </course>
+			<course> ML </course>
+			<course> EH </course>
+		</courses>
+	</Student>
+	<Student>
+		<name> Vansh Goel </name>
+		<rollno>17</rollno>
+		<class> TYBtech </class>
+		<div> A </div>
+		<courses>
+			<course> ADS </course>
+			<course> ML </course>
+			<course> EH </course>
+		</courses>
+	</Student>
+	<Student>
+		<name> Luvai Bhori </name>
+		<rollno>28</rollno>
+		<class> TYBtech </class>
+		<div> A </div>
+		<courses>
+			<course> ADS </course>
+			<course> ML </course>
+			<course> IS </course>
+		</courses>
+	</Student>
+</Students>
